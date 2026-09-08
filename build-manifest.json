@@ -1,7 +1,6 @@
 {
   "engine": "4.7.1",
   "project": "Platformer 3D",
-  "built_at": "2026-09-08",
   "files": {
     "index.wasm": {
       "bytes": 39513091,
@@ -9,7 +8,7 @@
     },
     "index.html": {
       "bytes": 5749,
-      "sha256": "4d4eca5a2ac881f564971b3971676ffa916198588256a31883aea01ae655a417"
+      "sha256": "698a1908bd6863c24b01898d44bcc320152b6d9d7915254514319a7584a9ec55"
     },
     "index.png": {
       "bytes": 21443,
@@ -28,8 +27,12 @@
       "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
     },
     "index.pck": {
-      "bytes": 13188776,
-      "sha256": "5f5090fa952b301f3c1c4293e465b6ff4639764a350089ee4e6ee36af9296393"
+      "bytes": 13190584,
+      "sha256": "fb4570b45b863351b8e642b55ad9a239ff4d443fcb7bccc2917c269c7d8812f3"
+    },
+    "index.png.import": {
+      "bytes": 929,
+      "sha256": "8d77e9325c446ec1304cef886cbcbed5bdb992d8c175d50ffc2d8f0207651542"
     }
   }
 }
