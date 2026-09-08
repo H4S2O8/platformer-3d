@@ -8,7 +8,7 @@
     },
     "index.html": {
       "bytes": 5749,
-      "sha256": "698a1908bd6863c24b01898d44bcc320152b6d9d7915254514319a7584a9ec55"
+      "sha256": "05a8865ea90eb89e7a32dd164decb879f0f19df92aa34a26bad1d65e118787bf"
     },
     "index.png": {
       "bytes": 21443,
@@ -27,8 +27,8 @@
       "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
     },
     "index.pck": {
-      "bytes": 13190584,
-      "sha256": "fb4570b45b863351b8e642b55ad9a239ff4d443fcb7bccc2917c269c7d8812f3"
+      "bytes": 13195644,
+      "sha256": "e7eda2c18ff0ece70a899adbb482c1d5ecd33e200bfa8c670dc858b968fbfce5"
     },
     "index.png.import": {
       "bytes": 929,
