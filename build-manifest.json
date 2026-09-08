@@ -29,10 +29,6 @@
     "index.pck": {
       "bytes": 13195644,
       "sha256": "e7eda2c18ff0ece70a899adbb482c1d5ecd33e200bfa8c670dc858b968fbfce5"
-    },
-    "index.png.import": {
-      "bytes": 929,
-      "sha256": "8d77e9325c446ec1304cef886cbcbed5bdb992d8c175d50ffc2d8f0207651542"
     }
   }
 }
